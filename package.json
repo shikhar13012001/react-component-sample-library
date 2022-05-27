@@ -13,7 +13,8 @@
   ],
   "types": "dist/index.d.ts",
   "scripts": {
-    "rollup": "rollup -c"
+    "rollup": "rollup -c",
+    "push":"git add . && git commit -m \"update\" && git push"
   },
   "author": "shikhar13012001",
   "license": "ISC",
