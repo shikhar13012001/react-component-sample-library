@@ -1,6 +1,6 @@
 {
   "name": "@shikhar13012001/react-component-sample-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A button component to learn to publish a library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
