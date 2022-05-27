@@ -28,8 +28,9 @@
     "tslib": "^2.4.0",
     "typescript": "^4.7.2"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/shikhar13012001"
+"publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 
 }
