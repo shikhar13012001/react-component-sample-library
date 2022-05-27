@@ -14,7 +14,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c",
-    "push":"git add . && git commit -m \"update\" && git push && cls"
+    "push":"git add . && git status && git commit -m \"update\" && git push &&  cls"
   },
   "author": "shikhar13012001",
   "license": "ISC",
